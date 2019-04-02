@@ -1,1 +1,13 @@
 <widget id="A6009632411590" version="0.0.1">
+    <name>Scanner Example</name>
+    <description>
+        Scanner Example App.
+    </description>
+    <author email="ricoliu1221@gmail.com" href="github.com/ricoliu">
+        RicoLiu
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="windowBackground" value="#FFF" />
+    <permission name="call" />
+</widget>
