@@ -1,2 +1,31 @@
 # Understanding-X-In-JavaScript
-Understanding X Series
+Understanding X Series Lists.
+
+## Content
++ [Understanding Javascript Function Executions — Call Stack, Event Loop, Tasks & More](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
++ [Understanding Javascript Selectors With and Without Reselect](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
++ [Understanding JavaScript Proxies by Examining on-change Library](https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2)
++ [A Simple Guide to Understanding Javascript (ES6) Generators](https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950)
++ [Understanding JavaScript: Closures](https://hackernoon.com/understanding-javascript-closures-4188edf5ea1b)
++ [Understanding JavaScript: Prototype and Inheritance](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
++ [Understanding JavaScript: Scope](https://hackernoon.com/understanding-javascript-scope-1d4a74adcdf5)
++ [Understanding JavaScript: This Keyword](https://hackernoon.com/understanding-javascript-the-this-keyword-4de325d77f68)
++ [Understanding JavaScript: New Keyword](https://hackernoon.com/understanding-javascript-new-keyword-ec67c8caaa74)
++ [Understanding JavaScript: Coercion](https://hackernoon.com/understanding-js-coercion-ff5684475bfc)
++ [Understanding JavaScript: The Event Loop](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
++ [Understanding JavaScript Objects](https://blog.halolabs.io/understanding-javascript-objects-d31cd24ca60f)
++ [Understanding JavaScript Memoization In 3 Minutes](https://codeburst.io/understanding-memoization-in-3-minutes-2e58daf33a19)
++ [Understanding Javascript Mutation and Pure Functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
++ [Understanding Asynchronous JavaScript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
++ [Understanding Promises in JavaScript](https://blog.bitsrc.io/understanding-promises-in-javascript-c5248de9ff8f)
++ [Understanding Call, Bind and Apply Methods in JavaScript](https://blog.bitsrc.io/understanding-call-bind-and-apply-methods-in-javascript-33dbf3217be)
++ [Understanding Scope and Scope Chain in JavaScript](https://blog.bitsrc.io/understanding-scope-and-scope-chain-in-javascript-f6637978cf53)
++ [Understanding Higher-Order Functions in JavaScript](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
++ [Understanding Design Patterns in JavaScript](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
++ [Understanding Closures in JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda)
++ [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
++ [Hoisting in Modern JavaScript — let, const, and var](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda)
++ [Understanding JavaScript’s Prototypal Inheritance](https://blog.bitsrc.io/understanding-javascripts-prototypal-inheritance-354292253bcb)
++ [Understanding the JavaScript call stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
++ [JavaScript: Understanding the Weird Parts](https://codeburst.io/javascript-understanding-the-weird-parts-d1d0e7061ebf)
++ [Understanding Currying in JavaScript ES6](https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400)
