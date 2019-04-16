@@ -29,3 +29,5 @@ Understanding X Series Lists.
 + [Understanding the JavaScript call stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
 + [JavaScript: Understanding the Weird Parts](https://codeburst.io/javascript-understanding-the-weird-parts-d1d0e7061ebf)
 + [Understanding Currying in JavaScript ES6](https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400)
++ [JavaScript Functions — Understanding The Basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
++ [Understanding Generators in ES6 JavaScript with Examples](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
