@@ -35,3 +35,4 @@ Understanding X Series Lists.
 + [Understanding Flexbox: Everything you need to know](https://medium.com/free-code-camp/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
 + [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.com/free-code-camp/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
 + [Understanding TypeScript’s Type System](https://medium.com/better-programming/understanding-typescripts-type-system-a3cdec8e95ae)
++ [JavaScript Design Patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15)
