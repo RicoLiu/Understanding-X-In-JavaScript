@@ -36,3 +36,4 @@ Understanding X Series Lists.
 + [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.com/free-code-camp/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
 + [Understanding TypeScript’s Type System](https://medium.com/better-programming/understanding-typescripts-type-system-a3cdec8e95ae)
 + [JavaScript Design Patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15)
++ [JavaScript Fundamentals: Mastering Loops](https://itnext.io/javascript-fundamentals-mastering-loops-6788687a9293)
