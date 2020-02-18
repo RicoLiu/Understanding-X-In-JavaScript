@@ -37,3 +37,4 @@ Understanding X Series Lists.
 + [Understanding TypeScript’s Type System](https://medium.com/better-programming/understanding-typescripts-type-system-a3cdec8e95ae)
 + [JavaScript Design Patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15)
 + [JavaScript Fundamentals: Mastering Loops](https://itnext.io/javascript-fundamentals-mastering-loops-6788687a9293)
++ [Some simple and amazing JavaScript tricks](https://medium.com/developers-arena/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
