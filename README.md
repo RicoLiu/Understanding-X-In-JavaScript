@@ -39,3 +39,4 @@ Understanding X Series Lists.
 + [JavaScript Fundamentals: Mastering Loops](https://itnext.io/javascript-fundamentals-mastering-loops-6788687a9293)
 + [Some simple and amazing JavaScript tricks](https://medium.com/developers-arena/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
 + [Understanding Mixins in JavaScript](https://blog.bitsrc.io/understanding-mixins-in-javascript-de5d3e02b466)
++ [Understanding async-await in JavaScript](https://medium.com/better-programming/understanding-async-await-in-javascript-1d81bb079b2c?source=search_post)
